@@ -1,0 +1,28 @@
+@import "./_common.scss";
+
+.app{
+  height: 100vh;
+  .app_header{
+    padding: 26px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .logo{
+      width: 150px;
+      height: auto;
+    }
+    .ee_icon{
+      width: 16px;
+    }
+    .header_right{
+      display: flex;
+    }
+    .user_name{
+      font-size: 11px;
+      margin: 4px 0 0 3px;
+    }
+  }
+  p{
+    margin: 0;
+  }
+}

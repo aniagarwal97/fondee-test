@@ -1,0 +1,13 @@
+.menu_card{
+    padding: 17px 13px 17px 25px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px 0px;
+    margin-bottom: 16px;
+    color: rgb(152, 152, 152);
+    text-transform: uppercase; 
+    font-size: 13px;
+}
+.left_container{
+    .active{
+        border-left: 5px solid rgb(255, 90, 135);
+    }
+}
